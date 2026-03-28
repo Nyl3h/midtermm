@@ -1,1 +1,34 @@
-
+harlem-plaza-redesign/
+├── index.html
+├── about.html
+├── problem.html
+├── site.html
+├── design.html
+├── proposal.html
+├── reflection.html
+├── assets/
+│   ├── css/
+│   │   ├── main.css
+│   │   └── noscript.css
+│   ├── js/
+│   │   ├── jquery.min.js
+│   │   ├── jquery.scrolly.min.js
+│   │   ├── jquery.scrollex.min.js
+│   │   ├── browser.min.js
+│   │   ├── breakpoints.min.js
+│   │   └── main.js
+│   ├── sass/
+│   └── webfonts/
+└── images/
+    ├── banner.jpg
+    ├── pic01.jpg
+    ├── pic02.jpg
+    ├── pic03.jpg
+    ├── pic04.jpg
+    ├── pic05.jpg
+    ├── pic06.jpg
+    └── plaza/
+        ├── current-1.jpg
+        ├── current-2.jpg
+        ├── redesign-1.jpg
+        └── redesign-2.jpg
