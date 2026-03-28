@@ -1,0 +1,249 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	
+	Harlem Pedestrian Plaza Redesign
+	Midterm Project - AI-Assisted Website Design
+-->
+<html>
+	<head>
+		<title>Harlem Plaza Redesign | Site Analysis</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong>Harlem</strong> <span>Plaza Redesign</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="about.html">About the Project</a></li>
+							<li><a href="problem.html">The Problem</a></li>
+							<li><a href="site.html">Site / Context</a></li>
+							<li><a href="design.html">Design Options</a></li>
+							<li><a href="proposal.html">Final Proposal</a></li>
+							<li><a href="reflection.html">Reflection</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Site Analysis & Context</h1>
+									</header>
+									<span class="image main"><img src="images/pic11.jpg" alt="Site Analysis" /></span>
+									
+									<h2>Location Overview</h2>
+									<p>Montefiore Square is a triangular pedestrian plaza located at the intersection of Amsterdam Avenue and West 137th Street in the Hamilton Heights neighborhood of Harlem, Manhattan, New York City. The site is bounded by academic institutions, residential buildings, and commercial corridors, making it a critical node in the neighborhood's pedestrian network.</p>
+									
+									<hr class="major" />
+									
+									<h2>Site Characteristics</h2>
+									
+									<div class="row">
+										<div class="col-6 col-12-small">
+											<h3>Physical Attributes</h3>
+											<ul>
+												<li><strong>Size:</strong> Approximately 0.3 acres</li>
+												<li><strong>Shape:</strong> Triangular geometry</li>
+												<li><strong>Topography:</strong> Relatively flat with slight grade changes</li>
+												<li><strong>Existing Vegetation:</strong> Minimal tree cover, some perimeter planting</li>
+												<li><strong>Surface Materials:</strong> Concrete paving with some brick accents</li>
+											</ul>
+										</div>
+										<div class="col-6 col-12-small">
+											<h3>Surrounding Context</h3>
+											<ul>
+												<li><strong>North:</strong> City College of New York campus</li>
+												<li><strong>East:</strong> Residential apartment buildings</li>
+												<li><strong>South:</strong> Commercial corridor along 137th Street</li>
+												<li><strong>West:</strong> Amsterdam Avenue traffic</li>
+												<li><strong>Transit:</strong> Nearby subway and bus connections</li>
+											</ul>
+										</div>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>Movement & Circulation Analysis</h2>
+									<p>Observation of pedestrian patterns reveals several key movement corridors:</p>
+									
+									<div class="box">
+										<div class="row">
+											<div class="col-4 col-12-medium">
+												<h4>Primary Paths</h4>
+												<ul>
+													<li>Amsterdam Avenue sidewalk</li>
+													<li>137th Street crossing</li>
+													<li>Diagonal shortcuts through plaza</li>
+												</ul>
+											</div>
+											<div class="col-4 col-12-medium">
+												<h4>Peak Times</h4>
+												<ul>
+													<li>8-9 AM: Morning commute</li>
+													<li>12-2 PM: Lunch period</li>
+													<li>5-7 PM: Evening rush</li>
+												</ul>
+											</div>
+											<div class="col-4 col-12-medium">
+												<h4>User Types</h4>
+												<ul>
+													<li>Students (40%)</li>
+													<li>Commuters (30%)</li>
+													<li>Residents (20%)</li>
+													<li>Other (10%)</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>Environmental Conditions</h2>
+									
+									<div class="row">
+										<div class="col-4 col-12-medium">
+											<span class="image fit"><img src="images/pic01.jpg" alt="Sun Study" /></span>
+											<h4>Sun & Shade</h4>
+											<p>Minimal existing shade creates uncomfortable conditions during summer months. Peak sun exposure occurs between 10 AM and 4 PM.</p>
+										</div>
+										<div class="col-4 col-12-medium">
+											<span class="image fit"><img src="images/pic02.jpg" alt="Wind Analysis" /></span>
+											<h4>Wind Patterns</h4>
+											<p>Open exposure to Amsterdam Avenue creates wind tunnel effects. Winter conditions are particularly harsh for pedestrians.</p>
+										</div>
+										<div class="col-4 col-12-medium">
+											<span class="image fit"><img src="images/pic03.jpg" alt="Noise Levels" /></span>
+											<h4>Noise & Air Quality</h4>
+											<p>Traffic on Amsterdam Avenue generates significant noise pollution. Vegetation barriers could improve both noise and air quality.</p>
+										</div>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>Precedent Study: NYC DOT Plaza Projects</h2>
+									<p>Analysis of successful NYC plaza redesigns provides valuable insights:</p>
+									
+									<div class="row">
+										<div class="col-6 col-12-small">
+											<h4>Westchester Square Plaza</h4>
+											<p>Successful conversion of underutilized street space into vibrant community hub with flexible seating and seasonal programming.</p>
+										</div>
+										<div class="col-6 col-12-small">
+											<h4>Myrtle/Wyckoff Plaza</h4>
+											<p>Integration of green infrastructure with pedestrian safety improvements. Demonstrates effective traffic calming strategies.</p>
+										</div>
+									</div>
+									
+									<ul class="actions">
+										<li><a href="design.html" class="button next">View Design Options</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Contact -->
+					<section id="contact">
+						<div class="inner">
+							<section>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Clear" /></li>
+									</ul>
+								</form>
+							</section>
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">student@university.edu</a>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(000) 000-0000 x12387</span>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-home"></span>
+										<h3>Location</h3>
+										<span>1234 Somewhere Road #5432<br />
+										New York, NY 00000<br />
+										United States of America</span>
+									</div>
+								</section>
+							</section>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Harlem Plaza Redesign Project</li>
+								<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								<li>Midterm Project - AI-Assisted Design</li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
