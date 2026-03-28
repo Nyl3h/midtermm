@@ -1,0 +1,316 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	
+	Harlem Pedestrian Plaza Redesign
+	Midterm Project - AI-Assisted Website Design
+-->
+<html>
+	<head>
+		<title>Harlem Plaza Redesign | Design Options</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong>Harlem</strong> <span>Plaza Redesign</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="about.html">About the Project</a></li>
+							<li><a href="problem.html">The Problem</a></li>
+							<li><a href="site.html">Site / Context</a></li>
+							<li><a href="design.html">Design Options</a></li>
+							<li><a href="proposal.html">Final Proposal</a></li>
+							<li><a href="reflection.html">Reflection</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Design Options</h1>
+									</header>
+									<span class="image main"><img src="images/pic11.jpg" alt="Design Options" /></span>
+									
+									<p>Through AI-assisted design exploration, three distinct approaches were developed to address the challenges identified in Montefiore Square. Each option represents a different philosophy toward public space transformation, ranging from conservative improvements to comprehensive redesign.</p>
+									
+									<hr class="major" />
+									
+									<h2>Option 1: Minimal Intervention</h2>
+									<div class="row">
+										<div class="col-6 col-12-medium">
+											<span class="image fit"><img src="images/pic01.jpg" alt="Minimal Intervention Concept" /></span>
+										</div>
+										<div class="col-6 col-12-medium">
+											<h3>Concept Overview</h3>
+											<p>This approach focuses on cost-effective improvements that can be implemented quickly without major construction. It prioritizes immediate user comfort and safety enhancements.</p>
+											
+											<h4>Key Features:</h4>
+											<ul>
+												<li>Strategic placement of movable seating</li>
+												<li>Temporary shade structures (umbrellas/canopies)</li>
+												<li>Improved lighting fixtures</li>
+												<li>Wayfinding signage</li>
+												<li>Planters with seasonal flowers</li>
+											</ul>
+											
+											<h4>Pros:</h4>
+											<ul>
+												<li>Low cost</li>
+												<li>Quick implementation</li>
+												<li>Flexibility for future changes</li>
+											</ul>
+											
+											<h4>Cons:</h4>
+											<ul>
+												<li>Limited long-term impact</li>
+												<li>No permanent shade or greenery</li>
+												<li>Doesn't address accessibility issues</li>
+											</ul>
+										</div>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>Option 2: Balanced Redesign</h2>
+									<div class="row">
+										<div class="col-6 col-12-medium">
+											<span class="image fit"><img src="images/pic02.jpg" alt="Balanced Redesign Concept" /></span>
+										</div>
+										<div class="col-6 col-12-medium">
+											<h3>Concept Overview</h3>
+											<p>This middle-ground approach combines permanent infrastructure improvements with flexible programming spaces. It balances immediate needs with long-term community benefits.</p>
+											
+											<h4>Key Features:</h4>
+											<ul>
+												<li>Permanent shade structures with solar panels</li>
+												<li>Integrated seating walls and benches</li>
+												<li>Native tree planting for natural shade</li>
+												<li>Pervious paving for stormwater management</li>
+												<li>Flexible event space</li>
+												<li>Improved lighting and safety features</li>
+											</ul>
+											
+											<h4>Pros:</h4>
+											<ul>
+												<li>Addresses multiple user needs</li>
+												<li>Sustainable design features</li>
+												<li>Moderate cost with high impact</li>
+												<li>Phased implementation possible</li>
+											</ul>
+											
+											<h4>Cons:</h4>
+											<ul>
+												<li>Requires more funding than minimal option</li>
+												<li>Construction disruption</li>
+												<li>Maintenance commitments</li>
+											</ul>
+										</div>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>Option 3: Bold Transformation</h2>
+									<div class="row">
+										<div class="col-6 col-12-medium">
+											<span class="image fit"><img src="images/pic03.jpg" alt="Bold Transformation Concept" /></span>
+										</div>
+										<div class="col-6 col-12-medium">
+											<h3>Concept Overview</h3>
+											<p>This comprehensive redesign reimagines the plaza as a signature public space for Harlem. It incorporates ambitious programming, sustainable infrastructure, and iconic design elements.</p>
+											
+											<h4>Key Features:</h4>
+											<ul>
+												<li>Integrated amphitheater for performances</li>
+												<li>Community garden and urban farm</li>
+												<li>Interactive water feature</li>
+												<li>Public art installations</li>
+												<li>Underground stormwater retention</li>
+												<li>Smart lighting and WiFi infrastructure</li>
+												<li>Year-round programming capabilities</li>
+											</ul>
+											
+											<h4>Pros:</h4>
+											<ul>
+												<li>Maximum community benefit</li>
+												<li>Tourist destination potential</li>
+												<li>Comprehensive sustainability</li>
+												<li>Legacy project for Harlem</li>
+											</ul>
+											
+											<h4>Cons:</h4>
+											<ul>
+												<li>High capital cost</li>
+												<li>Long implementation timeline</li>
+												<li>Complex maintenance requirements</li>
+												<li>Potential community resistance to change</li>
+											</ul>
+										</div>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>Comparison Matrix</h2>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Criteria</th>
+													<th>Minimal</th>
+													<th>Balanced</th>
+													<th>Bold</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Estimated Cost</td>
+													<td>$50,000 - $100,000</td>
+													<td>$500,000 - $1M</td>
+													<td>$2M - $5M</td>
+												</tr>
+												<tr>
+													<td>Implementation Time</td>
+													<td>3-6 months</td>
+													<td>1-2 years</td>
+													<td>3-5 years</td>
+												</tr>
+												<tr>
+													<td>Safety Improvement</td>
+													<td>Moderate</td>
+													<td>High</td>
+													<td>Very High</td>
+												</tr>
+												<tr>
+													<td>Comfort Enhancement</td>
+													<td>Low</td>
+													<td>High</td>
+													<td>Very High</td>
+												</tr>
+												<tr>
+													<td>Community Impact</td>
+													<td>Low</td>
+													<td>High</td>
+													<td>Very High</td>
+												</tr>
+												<tr>
+													<td>Sustainability</td>
+													<td>Low</td>
+													<td>High</td>
+													<td>Very High</td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+									
+									<ul class="actions">
+										<li><a href="proposal.html" class="button next">View Final Proposal</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Contact -->
+					<section id="contact">
+						<div class="inner">
+							<section>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Clear" /></li>
+									</ul>
+								</form>
+							</section>
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">student@university.edu</a>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(000) 000-0000 x12387</span>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-home"></span>
+										<h3>Location</h3>
+										<span>1234 Somewhere Road #5432<br />
+										New York, NY 00000<br />
+										United States of America</span>
+									</div>
+								</section>
+							</section>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Harlem Plaza Redesign Project</li>
+								<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								<li>Midterm Project - AI-Assisted Design</li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
