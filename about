@@ -1,0 +1,176 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	
+	Harlem Pedestrian Plaza Redesign
+	Midterm Project - AI-Assisted Website Design
+-->
+<html>
+	<head>
+		<title>Harlem Plaza Redesign | About the Project</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong>Harlem</strong> <span>Plaza Redesign</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="about.html">About the Project</a></li>
+							<li><a href="problem.html">The Problem</a></li>
+							<li><a href="site.html">Site / Context</a></li>
+							<li><a href="design.html">Design Options</a></li>
+							<li><a href="proposal.html">Final Proposal</a></li>
+							<li><a href="reflection.html">Reflection</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>About the Project</h1>
+									</header>
+									<span class="image main"><img src="images/pic11.jpg" alt="Project Overview" /></span>
+									
+									<h2>Project Title</h2>
+									<p><strong>Harlem Pedestrian Plaza Redesign: Transforming Montefiore Square into a Community-Centered Public Space</strong></p>
+									
+									<h2>Project Goal</h2>
+									<p>The goal of this project is to design a comprehensive redesign proposal for Montefiore Square (also known as Montefiore Park) located in Harlem, Manhattan. This redesign aims to transform an underutilized urban plaza into a vibrant, safe, and inclusive public space that serves the diverse needs of the Harlem community.</p>
+									<p>The project combines urban design principles with AI-assisted visualization to explore multiple design possibilities and present a well-reasoned final proposal that addresses:</p>
+									<ul>
+										<li><strong>Safety:</strong> Improving pedestrian safety and reducing conflicts</li>
+										<li><strong>Comfort:</strong> Enhancing environmental comfort through shade and seating</li>
+										<li><strong>Accessibility:</strong> Ensuring inclusive access for all users</li>
+										<li><strong>Community Engagement:</strong> Creating spaces that foster social interaction</li>
+										<li><strong>Sustainability:</strong> Incorporating green infrastructure and sustainable materials</li>
+									</ul>
+									
+									<h2>Essential Question</h2>
+									<blockquote>How can Montefiore Square be redesigned to better serve the Harlem community as a safe, comfortable, and vibrant public space while respecting the neighborhood's cultural identity and addressing contemporary urban challenges?</blockquote>
+									
+									<h2>Project Scope</h2>
+									<p>This project encompasses:</p>
+									<ol>
+										<li><strong>Site Analysis:</strong> Comprehensive study of existing conditions, user patterns, and contextual factors</li>
+										<li><strong>Problem Definition:</strong> Identification of key challenges and opportunities</li>
+										<li><strong>Design Exploration:</strong> Development of multiple design options using AI-assisted visualization</li>
+										<li><strong>Final Proposal:</strong> Detailed redesign with AI-generated renderings and implementation strategy</li>
+										<li><strong>Reflection:</strong> Critical analysis of AI's role in the design process</li>
+									</ol>
+									
+									<h2>Location Context</h2>
+									<p>Montefiore Square is located at the intersection of Amsterdam Avenue and West 137th Street in the Hamilton Heights neighborhood of Harlem, Manhattan. The plaza sits adjacent to the City College of New York and serves as a pedestrian hub in a diverse, vibrant community with rich cultural heritage.</p>
+									
+									<ul class="actions">
+										<li><a href="problem.html" class="button next">Explore the Problem</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Contact -->
+					<section id="contact">
+						<div class="inner">
+							<section>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Clear" /></li>
+									</ul>
+								</form>
+							</section>
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">student@university.edu</a>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(000) 000-0000 x12387</span>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-home"></span>
+										<h3>Location</h3>
+										<span>1234 Somewhere Road #5432<br />
+										New York, NY 00000<br />
+										United States of America</span>
+									</div>
+								</section>
+							</section>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Harlem Plaza Redesign Project</li>
+								<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								<li>Midterm Project - AI-Assisted Design</li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
